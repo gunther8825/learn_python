@@ -30,7 +30,7 @@ This series introduces Python fundamentals in a step-by-step way, each notebook 
 ## How to Use
 
 1. Clone or download this repository.
-2. Make sure you have Jupyter installed:
+2. Make sure you have Jupyter installed (Choose one):
      
    [Install Jupyter Notebook](https://jupyter.org/install)
    
