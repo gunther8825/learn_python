@@ -36,7 +36,7 @@ This series introduces Python fundamentals in a step-by-step way, each notebook 
    
    [Install Anaconda](https://www.anaconda.com/)  This has Jupyter Notebook
 
-Alternatively, you can upload the file into [Google Colab](https://colab.google/).
+Alternatively, you can upload the file into [Google Colab](https://colab.google/), which does not require downloading and/or installing software.
 
 ## License
 This project is released under the [MIT Licesnse](https://github.com/gunther8825/learn_python?tab=MIT-1-ov-file)
