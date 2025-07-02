@@ -30,8 +30,10 @@ This series introduces Python fundamentals in a step-by-step way, each notebook 
 ## How to Use
 
 1. Clone or download this repository.
-2. Make sure you have Jupyter installed:  
+2. Make sure you have Jupyter installed:
+     
    [Install Jupyter Notebook](https://jupyter.org/install)
+   
    [Install Anaconda](https://www.anaconda.com/)  This has Jupyter Notebook
 
 Alternatively, you can upload the file into [Google Colab](https://colab.google/).
