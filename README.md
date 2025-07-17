@@ -1,6 +1,6 @@
 # Beginner Python
 Jupyter notebooks with beginner lessons in how to program in python.
-This collection of Jupyter notebooks is designed for beginners who want to learn Python programming through hands-on examples and exercises.
+This collection of Jupyter notebooks is designed for beginners who want to learn Python programming through hands-on examples and exercises.  You can find more info on the assoicated [LibGuide.](https://cshl.libguides.com/learning_python/introduction )
 
 ## What You’ll Learn
 
