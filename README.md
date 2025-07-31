@@ -39,5 +39,8 @@ This series introduces Python fundamentals in a step-by-step way, each notebook 
 
 Alternatively, you can upload the file into [Google Colab](https://colab.google/), which does not require downloading and/or installing software.
 
+## LibGuide
+Check out the associated [LibGuide](https://cshl.libguides.com/learning_python).
+
 ## License
 This project is released under the [MIT Licesnse](https://github.com/gunther8825/learn_python?tab=MIT-1-ov-file)
