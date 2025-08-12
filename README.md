@@ -22,7 +22,8 @@ This series introduces Python fundamentals in a step-by-step way, each notebook 
 | `12_Python_functions.ipynb` | Functions | How to create and use functions. |
 | `13_Python_Numpy.ipynb` | Numpy | Beginner lesson on how to use Numpy library package. |
 | `13a_Python_Numpy_Examples.ipynb` | Numpy Examples | Two data analysis examples that use Numpy. |
-| `14_Python_pandas.ipynb` | Pandass | Beginner introduction to the Pandas library |
+| `14_Python_pandas.ipynb` | Pandas | Beginner introduction to the Pandas library |
+| `15_Python_Matplotlib.ipynb` | Matplotlib | Learn how to plot figures |
 
 ## Prerequisites
 - No prior programming experience required
